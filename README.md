@@ -1,5 +1,5 @@
 # salehome
-git clone https://github.com/erinallard/instagram_miner.git
+git clone https://github.com/nguyenchuongbep1310/pythondjango.git
 virtualenv env --no-site-packages
 source env/bin/activate
 pip install -r requirements.txt
