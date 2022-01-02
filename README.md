@@ -3,7 +3,6 @@ git clone https://github.com/nguyenchuongbep1310/pythondjango.git
 virtualenv env --no-site-packages
 source env/bin/activate
 pip install -r requirements.txt
-
 In setting.py, change:
 DATABASES = {
     'default': {
